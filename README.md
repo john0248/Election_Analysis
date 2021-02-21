@@ -29,7 +29,7 @@ Using the given cvs file and python, we were able to determine the following ele
 Please find below a snapshot of the election results written to the text file using python: 
 
 
-![](Resources/###.png)
+![](Resources/Election%20Result%20SnapShot.png)
 
 
 
