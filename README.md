@@ -37,7 +37,7 @@ Please find below a snapshot of the election results written to the text file us
 ## Election-Audit Summary
 The python code we developed was able to verify the election results from the Colorado Election Committee.  With some modification the Colorado Election Committee can utilize this code for future elections.   
 
-Here are two examples of how the committee can use this script or modified it for other elections:
+Here are just two examples of how the committee can modify this script for other elections:
 * Modify the cvs file being read to reference a different cvs file summarizing a new election. This will work as long as the data provided is still counties and candidates. 
 * We could modify the county information to districts or even cities with the State. If we wished to capture other race summaries like Governor or local elected officials.  
 
