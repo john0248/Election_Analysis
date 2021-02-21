@@ -27,6 +27,8 @@ Using the given cvs file and python, we were able to determine the following ele
 	1. Diana DeGette: 73.8% and 272,892 votes
 
 Please find below a snapshot of the election results written to the text file using python: 
+
+
 ![](Resources/###.png)
 
 
