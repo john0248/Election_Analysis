@@ -1,4 +1,4 @@
-# Writtten Anaylsis of the Election Results
+# Written Anaylsis of the Election Results
 
 ## Overview of Election Audit
 purpose
