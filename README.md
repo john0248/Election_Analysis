@@ -4,7 +4,6 @@
 
 The purpose of this project was to determine if python could be used to verify election results from tableted data provided by the U.S. Congressional Precinct in Colorado.  
 
-Background
 Voters can cast their votes using three main voting methods: Punch Cards, Mail-In Ballots and Direct Recording Electronics. The current process requires each voting method to tally and record the data in tabulated form. The tableted data is then sent to the central office to summarize and validate election results. 
 
 An employee from the Colorado Election Committee supplied the tableted data for us to validate. Our goal was to summaries election results and determine the congressional winner using python.  The ultimate project goal is automating the audit of election results using a modified version of our code in future elections. 
